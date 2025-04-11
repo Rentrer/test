@@ -1,0 +1,21 @@
+.pagination-container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.pagination {
+    margin-top: 15px;
+}
+
+.pagination .page-item.active .page-link {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.pagination .page-link {
+    color: #007bff;
+}
+
+.pagination .page-item.disabled .page-link {
+    color: #6c757d;
+} 
